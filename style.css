@@ -23,7 +23,7 @@ header {
   padding: 10px;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 header h1 {
   color: #35dcdc;
@@ -96,10 +96,6 @@ header .primeira-navegacao li a {
   opacity: 1;
   animation: pisca .5s infinite;
 }
-
-
-
-
 
 @keyframes pisca {
   from {
