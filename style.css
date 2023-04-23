@@ -48,6 +48,11 @@ header .primeira-navegacao li a {
   font-size: 1.3rem;
 }
 
+header .primeira-navegacao a:hover {
+  color: #35dcdc;
+  opacity: 0.5s;
+}
+
 
 /* Seção Dowload-CV */
 
@@ -84,7 +89,11 @@ header .primeira-navegacao li a {
   color: #fff;
   padding: 15px 40px;
   border-radius: 5px;
-  border: 2px solid white;
+  border: 2px solid rgb(58, 173, 171);
+}
+
+.section-um a:hover {
+  color: #35dcdc;
 }
 
 .section-um img {
